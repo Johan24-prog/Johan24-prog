@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="18" y1="8" x2="1182" y2="432" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#052E2B"/>
+      <stop offset="1" stop-color="#14532D"/>
+    </linearGradient>
+    <linearGradient id="fairway" x1="820" y1="100" x2="1080" y2="370" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#86EFAC"/>
+      <stop offset="1" stop-color="#16A34A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="440" rx="28" fill="url(#bg)"/>
+  <circle cx="1058" cy="25" r="175" fill="#4ADE80" opacity=".12"/>
+  <text x="76" y="82" fill="#BEF264" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="4">TOURNAMENTS, FROM TEE TO FINAL</text>
+  <text x="72" y="184" fill="#F0FDF4" font-family="Segoe UI,Arial,sans-serif" font-size="57" font-weight="700">Golfturneringar</text>
+  <text x="76" y="230" fill="#BBF7D0" font-family="Segoe UI,Arial,sans-serif" font-size="22">Anmäl lag, följ gruppspel och spela vidare.</text>
+  <rect x="76" y="282" width="308" height="43" rx="21.5" fill="#166534" stroke="#86EFAC" stroke-opacity=".45"/>
+  <text x="101" y="309" fill="#DCFCE7" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">NEXT.JS  ·  PRISMA  ·  SUPABASE</text>
+  <rect x="668" y="53" width="454" height="334" rx="21" fill="#F8FAFC"/>
+  <text x="700" y="94" fill="#14532D" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="700">Summer Open</text>
+  <text x="700" y="118" fill="#64748B" font-family="Segoe UI,Arial,sans-serif" font-size="12">GROUP A · STANDINGS</text>
+  <rect x="700" y="138" width="390" height="31" rx="8" fill="#DCFCE7"/>
+  <text x="718" y="159" fill="#166534" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">TEAM</text>
+  <text x="934" y="159" fill="#166534" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">W</text>
+  <text x="982" y="159" fill="#166534" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">D</text>
+  <text x="1034" y="159" fill="#166534" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">PTS</text>
+  <text x="718" y="199" fill="#1E293B" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">Fairway Friends</text>
+  <text x="940" y="199" fill="#475569" font-family="Segoe UI,Arial,sans-serif" font-size="14">3</text>
+  <text x="988" y="199" fill="#475569" font-family="Segoe UI,Arial,sans-serif" font-size="14">0</text>
+  <text x="1034" y="199" fill="#166534" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">9</text>
+  <path d="M700 215h390" stroke="#E2E8F0"/>
+  <text x="718" y="244" fill="#1E293B" font-family="Segoe UI,Arial,sans-serif" font-size="14">Green Keepers</text>
+  <text x="940" y="244" fill="#475569" font-family="Segoe UI,Arial,sans-serif" font-size="14">2</text>
+  <text x="988" y="244" fill="#475569" font-family="Segoe UI,Arial,sans-serif" font-size="14">1</text>
+  <text x="1034" y="244" fill="#166534" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">7</text>
+  <rect x="700" y="270" width="390" height="88" rx="13" fill="#F0FDF4"/>
+  <path d="M738 305h82m0 0-10-9m10 9-10 9m0 0h64m0 0-10-9m10 9-10 9m0 0h62" stroke="url(#fairway)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="738" cy="305" r="9" fill="#22C55E"/>
+  <circle cx="956" cy="305" r="9" fill="#15803D"/>
+  <text x="720" y="344" fill="#166534" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">GROUPS</text>
+  <text x="924" y="344" fill="#166534" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">PLAYOFF</text>
+  <circle cx="1055" cy="305" r="17" fill="#BBF7D0"/>
+  <path d="m1048 305 5 5 9-11" stroke="#15803D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

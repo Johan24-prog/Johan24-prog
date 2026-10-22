@@ -1,92 +1,45 @@
-<!-- ================================================== -->
-<!-- HEADER -->
-<!-- ================================================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101828,50:164E63,100:0891B2&height=190&section=header&text=Johan%20Norgren&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Systemutveckling%20%7C%20Webb%20%7C%20.NET%20%7C%20AI&descSize=15&descAlignY=60" width="100%" alt="Johan Norgren – Systemutveckling, webb, .NET och AI" />
+# Johan Norgren
 
-<h2>Välkommen till min utvecklarprofil</h2>
+**Blivande systemutvecklare · .NET · webbutveckling · AI**
 
-<p>
-Jag studerar systemutveckling och bygger egna projekt för att omsätta kunskap till praktiska lösningar.
-</p>
+Jag studerar systemutveckling med .NET och bygger projekt för att lära mig mer om hela kedjan – från gränssnitt och affärslogik till databaser och API:er.
 
-<a href="https://github.com/Johan24-prog?tab=repositories">
-  <img src="https://img.shields.io/badge/Utforska%20projekt-164E63?style=for-the-badge&logo=github&logoColor=white" alt="Utforska projekt" />
-</a>
-<a href="https://edugrade.com/yh-utbildning-och-nationell-yrkesutbildning/program/systemutvecklarenet-med-ai-kompetens/">
-  <img src="https://img.shields.io/badge/Min%20utbildning-0891B2?style=for-the-badge&logo=bookstack&logoColor=white" alt="Min utbildning" />
-</a>
+[Projekt på GitHub](https://github.com/Johan24-prog?tab=repositories) ·
+[LinkedIn](https://www.linkedin.com/in/johan-norgren/) ·
+[Utbildning](https://edugrade.com/yh-utbildning-och-nationell-yrkesutbildning/program/systemutvecklarenet-med-ai-kompetens/)
 
 </div>
-
----
-
-## Innehåll
-
-<div align="center">
-
-[Om mig](#om-mig) &nbsp; · &nbsp;
-[Projekt](#utvalda-projekt) &nbsp; · &nbsp;
-[Tekniker](#tekniker-och-verktyg) &nbsp; · &nbsp;
-[Programmeringsspråk](#programmeringsspråk) &nbsp; · &nbsp;
-[GitHub-statistik](#github-statistik) &nbsp; · &nbsp;
-[Kontakt](#kontakt)
-
-</div>
-
----
-
-## Om mig
-
-Jag är en blivande systemutvecklare med intresse för programmering, webbutveckling och hur olika delar av ett system samverkar.
-
-Genom utbildning och egna projekt utvecklar jag mina kunskaper inom applikationsutveckling, databaser, backend och frontend. Jag tycker om att förstå hur saker fungerar och att stegvis bygga lösningar som är strukturerade, användbara och underhållbara.
-
-| | |
-|---|---|
-| **Utbildning** | Systemutvecklare .NET med AI-kompetens, Edugrade |
-| **Fokusområden** | Webbutveckling, databaser och systemutveckling |
-| **Pågående arbete** | Egna programmeringsprojekt, bland annat en golfapp |
-| **Målsättning** | Att utvecklas som systemutvecklare och bygga kompletta applikationer |
-
----
 
 ## Utvalda projekt
-
-Här presenterar jag några av de projekt jag har arbetat med. Projekten visar min utveckling och ger en inblick i hur jag använder programmering för att lösa praktiska problem.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/Johan24-prog/kurs-4-asp-net">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Johan24-prog&repo=kurs-4-asp-net&theme=tokyonight&hide_border=true" width="100%" alt="ASP.NET-projekt" />
+<img src="assets/docrepo.svg" width="100%" alt="Egen illustration av DocRepo med filversioner och synkronisering" />
 </a>
 
-### ASP.NET-projekt
+### [DocRepo](https://github.com/Johan24-prog/kurs-4-asp-net)
 
-Webbutveckling med .NET, med fokus på applikationslogik, datahantering och serverbaserad funktionalitet.
+Fil- och versionshantering med webbgränssnitt, REST API och klient för synkronisering.
 
-**Tekniker:** C#, ASP.NET Core och relaterade .NET-verktyg där de används i projektet.
-
-[Visa repository](https://github.com/Johan24-prog/kurs-4-asp-net)
+**Teknik:** C#, .NET 10, ASP.NET Core, EF Core, SQLite, SignalR
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/Johan24-prog/kurs-2-ramverk-angular-grupp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Johan24-prog&repo=kurs-2-ramverk-angular-grupp&theme=tokyonight&hide_border=true" width="100%" alt="Duck Drive-projekt" />
+<img src="assets/duck-drive.svg" width="100%" alt="Egen illustration av Duck Drive, en webbaserad filhanterare" />
 </a>
 
-### Duck Drive
+### [Duck Drive](https://github.com/Johan24-prog/kurs-2-ramverk-angular-grupp)
 
-Ett projekt inom webbutveckling med fokus på filhantering och ett användargränssnitt inspirerat av molnlagring.
+Frontendprototyp för filhantering med sök, mappar och papperskorg. Data sparas lokalt i webbläsaren.
 
-**Tekniker:** Angular, TypeScript och SCSS där de används i projektet.
-
-[Visa repository](https://github.com/Johan24-prog/kurs-2-ramverk-angular-grupp)
+**Teknik:** Angular 21, TypeScript, HTML, SCSS
 
 </td>
 </tr>
@@ -94,123 +47,49 @@ Ett projekt inom webbutveckling med fokus på filhantering och ett användargrä
 <td width="50%" valign="top">
 
 <a href="https://github.com/Johan24-prog/kurs-4-po-ngr-kningsapp-grupp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Johan24-prog&repo=kurs-4-po-ngr-kningsapp-grupp&theme=tokyonight&hide_border=true" width="100%" alt="Poängräkningsapp" />
+<img src="assets/poangraknare.svg" width="100%" alt="Egen illustration av en poängräknare med livesynkade matchresultat" />
 </a>
 
-### Poängräkningsapp
+### [Poängräknare](https://github.com/Johan24-prog/kurs-4-po-ngr-kningsapp-grupp)
 
-En applikation för att hantera matcher, spelare och poäng. Ett projekt med fokus på funktionalitet och strukturerad hantering av information.
+Skapa matcher, hantera spelare och följ poängen. Matchändringar synkas i realtid.
 
-[Visa repository](https://github.com/Johan24-prog/kurs-4-po-ngr-kningsapp-grupp)
+**Teknik:** React, TypeScript, Vite, Tailwind CSS, ASP.NET Core, EF Core, SQLite, SignalR
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/Johan24-prog/Quiz-Game">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Johan24-prog&repo=Quiz-Game&theme=tokyonight&hide_border=true" width="100%" alt="Quiz Game" />
+<img src="assets/quiz-game.svg" width="100%" alt="Egen illustration av ett frågespel med flervalsfrågor" />
 </a>
 
-### Quiz Game
+### [Quiz Game](https://github.com/Johan24-prog/Quiz-Game)
 
-Ett interaktivt frågespel där programmering används för att skapa en spelupplevelse med frågor och svar.
+Ett webbaserat frågespel med flervalsfrågor, poängräkning och resultatsida.
 
-**Tekniker:** JavaScript och webbutveckling.
-
-[Visa repository](https://github.com/Johan24-prog/Quiz-Game)
+**Teknik:** HTML, CSS, JavaScript
 
 </td>
 </tr>
 </table>
 
-### Pågående projekt: Golfapp
+### Pågående: Golfturneringar
 
-Jag utvecklar en webbapplikation för golfturneringar med funktioner för laganmälningar och hantering av turneringsdata.
+<img src="assets/golf-app.svg" width="100%" alt="Egen illustration av en golfturnering med gruppställning och slutspelsträd" />
 
-Arbetet omfattar bland annat formulär, validering, databasmodeller, serverlogik och strukturering av applikationen.
+En webbapp för turneringar med laganmälningar, gruppställning och slutspel. Projektet är under utveckling.
 
-**Fokus:** Fullstackutveckling, datamodellering och vidareutveckling av en fungerande webbapplikation.
+**Teknik:** Next.js, React, TypeScript, Prisma, Supabase, PostgreSQL, Tailwind CSS
 
-[Visa mina publika repositories](https://github.com/Johan24-prog?tab=repositories)
+## Teknik och verktyg
 
----
-
-## Tekniker och verktyg
-
-Nedan visas tekniker och verktyg som är relevanta för mina projekt och studier. Listan utvecklas i takt med att jag får mer praktisk erfarenhet.
-
-<div align="center">
-
-### Webbutveckling
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind&theme=dark" alt="Webbutvecklingstekniker" />
-
-### Backend och databaser
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,prisma,sqlite,mysql&theme=dark" alt="Backend- och databastekniker" />
-
-### Utvecklingsverktyg
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" alt="Utvecklingsverktyg" />
-
-</div>
-
----
-
-## Programmeringsspråk
-
-Diagrammet nedan visar fördelningen av programmeringsspråk i mina publika repositories.
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johan24-prog&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" alt="Fördelning av programmeringsspråk" />
-
-</div>
-
-*Språkfördelningen beskriver kod i publika repositories och är inte ett direkt mått på kunskapsnivå.*
-
----
-
-## GitHub-statistik
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Johan24-prog&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="175" alt="GitHub-statistik" />
-
-<img src="https://streak-stats.demolab.com?user=Johan24-prog&theme=tokyonight&hide_border=true" height="175" alt="GitHub-bidrag över tid" />
-
-</div>
-
----
-
-## Nuvarande fokus
-
-Mitt fokus ligger på att stärka grunderna inom systemutveckling och utveckla mer kompletta applikationer.
-
-- Fullstackutveckling och webbapplikationer
-- Databaser, datamodeller och relationer
-- Backendlogik och validering
-- Strukturerad kod och underhållbar arkitektur
-- C#, .NET och AI-relaterad utveckling
-
----
+**Språk:** C#, TypeScript, JavaScript, HTML, CSS<br />
+**Backend och data:** .NET, ASP.NET Core, Entity Framework Core, Prisma, SQLite, PostgreSQL<br />
+**Frontend:** Angular, React, Next.js, Vite, Tailwind CSS, SCSS<br />
+**Övrigt:** SignalR, Git, GitHub, Visual Studio, VS Code
 
 ## Kontakt
 
-Jag välkomnar möjligheter att utvecklas, samarbeta kring projekt och utbyta erfarenheter inom programmering och systemutveckling.
+Jag är intresserad av att fortsätta utvecklas inom systemutveckling och bygga användbara, välstrukturerade applikationer.
 
-<div align="center">
-
-<a href="https://github.com/Johan24-prog">
-  <img src="https://img.shields.io/badge/GitHub-Mina%20projekt-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mina projekt på GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/johan-norgren/">
-  <img src="https://img.shields.io/badge/LinkedIn-Min%20profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Min LinkedIn-profil" />
-</a>
-
-<br /><br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101828,50:164E63,100:0891B2&height=100&section=footer" width="100%" alt="" />
-
-**En kontinuerlig utveckling genom studier, projekt och praktiskt lärande.**
-
-</div>
+[GitHub](https://github.com/Johan24-prog) · [LinkedIn](https://www.linkedin.com/in/johan-norgren/)
